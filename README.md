@@ -52,3 +52,4 @@ print(outputs)
 * build in catches for common errors for easier bug-fixing
 * change default imports to read from a file for easier editing
 * allow passing a list containing multiple dicts of objects to push, as well as strings of packages to import
+* assess difficulty in listing this as a proper python package
